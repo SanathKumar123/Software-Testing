@@ -19,7 +19,7 @@ public class CalModifiedTest {
         assertEquals(30, numDays);
     }
 
-    // Different day in Different month, should be 0 days
+    // Different day in Different month, should be 60 days
 
     @Test
     public void testDifferentDaysInDifferentMonth() {
